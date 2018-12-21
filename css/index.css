@@ -1,0 +1,50 @@
+#btn {
+  display: none;
+}
+.toggle img {
+  border-radius: 0.5em;
+  background-color: #222;
+  position: fixed;
+  padding: 0.5em;
+  margin: 1em;
+  width: 3em;
+  height: 3em;
+  top: 0;
+  right: 0;
+}
+#menu {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 16em;
+  height: 100%;
+  background: #222;
+  transform: translateX(16em);
+  transition-duration: 1s;
+}
+#menu_list {
+  list-style: none;
+}
+#menu_list li a, #menu_list li a:visited {
+  color: whitesmoke;
+}
+#btn:checked + #menu {
+  transform: translateX(-0em);
+}
+
+body {
+  margin: 0;
+}
+body * {
+  z-index: 2;
+}
+html {
+  scroll-behavior: smooth;
+}
+section {
+  max-width: 45%;
+  min-width: 90%;
+  margin: 1em auto;
+  background-color: white;
+  background-color: rgba(250, 250, 250, 0.5);
+}
