@@ -43,8 +43,8 @@ html {
   scroll-behavior: smooth;
 }
 section {
-  max-width: 45%;
-  min-width: 90%;
+  max-width: 30%;
+  min-width: 60%;
   margin: 0 auto;
   background-color: white;
   background-color: rgba(250, 250, 250, 0.5);
