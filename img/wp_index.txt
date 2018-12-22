@@ -1,3 +1,5 @@
+10-6.png
+10-7.png
 10-8.jpg
 12-inch-retina-macbook-Bubble-Wallpaper-iMac5K.jpg
 128.png
@@ -266,22 +268,22 @@ Maple.jpg
 mbp-mac.jpg
 Metallic Foam.jpg
 Misty-Mountains.jpg
-Mojave (Dynamic) 01.heic
-Mojave (Dynamic) 02.heic
-Mojave (Dynamic) 03.heic
-Mojave (Dynamic) 04.heic
-Mojave (Dynamic) 05.heic
-Mojave (Dynamic) 06.heic
-Mojave (Dynamic) 07.heic
-Mojave (Dynamic) 08.heic
-Mojave (Dynamic) 09.heic
-Mojave (Dynamic) 10.heic
-Mojave (Dynamic) 11.heic
-Mojave (Dynamic) 12.heic
-Mojave (Dynamic) 13.heic
-Mojave (Dynamic) 14.heic
-Mojave (Dynamic) 15.heic
-Mojave (Dynamic) 16.heic
+Mojave (Dynamic) 01.jpg
+Mojave (Dynamic) 02.jpg
+Mojave (Dynamic) 03.jpg
+Mojave (Dynamic) 04.jpg
+Mojave (Dynamic) 05.jpg
+Mojave (Dynamic) 06.jpg
+Mojave (Dynamic) 07.jpg
+Mojave (Dynamic) 08.jpg
+Mojave (Dynamic) 09.jpg
+Mojave (Dynamic) 10.jpg
+Mojave (Dynamic) 11.jpg
+Mojave (Dynamic) 12.jpg
+Mojave (Dynamic) 13.jpg
+Mojave (Dynamic) 14.jpg
+Mojave (Dynamic) 15.jpg
+Mojave (Dynamic) 16.jpg
 Mojave Day.jpg
 Mojave Night.jpg
 Mojave.jpg
@@ -368,22 +370,22 @@ Snow-Leopard-Prowl.jpg
 Snow-Leopard-Scratch.jpg
 Snowy Hills.jpg
 Soft Pink.png
-Solar gradients 01.heic
-Solar gradients 02.heic
-Solar gradients 03.heic
-Solar gradients 04.heic
-Solar gradients 05.heic
-Solar gradients 06.heic
-Solar gradients 07.heic
-Solar gradients 08.heic
-Solar gradients 09.heic
-Solar gradients 10.heic
-Solar gradients 11.heic
-Solar gradients 12.heic
-Solar gradients 13.heic
-Solar gradients 14.heic
-Solar gradients 15.heic
-Solar gradients 16.heic
+Solar gradients 01.jpg
+Solar gradients 02.jpg
+Solar gradients 03.jpg
+Solar gradients 04.jpg
+Solar gradients 05.jpg
+Solar gradients 06.jpg
+Solar gradients 07.jpg
+Solar gradients 08.jpg
+Solar gradients 09.jpg
+Solar gradients 10.jpg
+Solar gradients 11.jpg
+Solar gradients 12.jpg
+Solar gradients 13.jpg
+Solar gradients 14.jpg
+Solar gradients 15.jpg
+Solar gradients 16.jpg
 Solid Aqua Blue.png
 Solid Aqua Dark Blue.png
 Solid Aqua Graphite.png
@@ -445,5 +447,3 @@ Zen Garden.jpg
 10-3.png
 10-4.png
 10-5.png
-10-6.png
-10-7.png
