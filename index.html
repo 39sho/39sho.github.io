@@ -3,6 +3,14 @@
 <head>
   <title></title>
   <link rel="manifest" href="/manifest.json">
+  <script type="text/javascript">
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('./service-worker.js')
+      .then(() => {
+        console.log('Service Worker Registered');
+      });
+    }
+  </script>
 </head>
 <body>
   Hello, World!!
