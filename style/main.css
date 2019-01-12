@@ -22,8 +22,9 @@ html {
 
 .nav-btn {
     display: none;
-    width: 8vw;
-    height: 8vh;
+    width: 32px;
+    height: 32px;
+    margin: 16px;
     position: fixed;
     top: 0;
     right: 0;
