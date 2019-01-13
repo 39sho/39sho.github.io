@@ -54,6 +54,6 @@ html {
         width: 16em;
         height: 100vh;
         transform: translateX(16em);
-        transition-duration: 1s;
+        transition-duration: 0.5s;
     }
 }
