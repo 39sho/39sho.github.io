@@ -2,9 +2,17 @@
 <html lang="ja">
 <head>
   <meta charset="utf-8">
+  <link rel="manifest" href="manifest.json">
   <meta name="viewport" content="width=device-width">
   <link rel="stylesheet" type="text/css" href="style/main.css">
   <title></title>
+  <script>
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('service-worker.js').then(() => {
+        console.log('Service Worker Registered');
+      });
+    }
+  </script>
 </head>
 <body>
   <img id="nav-btn" class="nav-btn" src="image/baseline-menu-24px.svg">
